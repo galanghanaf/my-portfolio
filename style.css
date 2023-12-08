@@ -36,6 +36,10 @@ nav {
   height: 17vh;
 }
 
+.text-container {
+  text-align: justify;
+}
+
 .nav-links {
   gap: 2rem;
   list-style: none;
@@ -56,6 +60,7 @@ a:hover {
 }
 
 .logo {
+  margin-top: 2rem;
   font-size: 2rem;
 }
 
